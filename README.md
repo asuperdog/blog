@@ -1,2 +1,1 @@
-# myblog
-kole's blog
+# 渣狗的博客
